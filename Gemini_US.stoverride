@@ -1,0 +1,5 @@
+proxy-groups:
+  - name: 🤖 ChatGPT、Claude、Gemini、微软AI
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
